@@ -1,9 +1,8 @@
 # PX4 Offboard Control
-
+> Ubuntu 22.04 | ROS2 Humble | PX4
 ## Dependency
 - [px4_msgs](https://github.com/PX4/px4_msgs)
 - [NavPy](https://pypi.org/project/NavPy/)
-<br/>
 
 ## RUN
 **MultiCopter**
@@ -19,7 +18,6 @@ Mode
 - `att` : attitude setpoints
 - `act` : direct control the motor and/or servo<br/>
 &emsp;&emsp;&emsp;(Hardware check is required.)
-<br/>
 
 ## Reference
 https://github.com/PX4/px4_ros_com/tree/main/src/examples/offboard_py
