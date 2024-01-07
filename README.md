@@ -20,5 +20,5 @@ Mode
 &emsp;&emsp;&emsp;(Hardware check is required.)
 
 ## Reference
-https://github.com/PX4/px4_ros_com/tree/main/src/examples/offboard_py
-https://github.com/Jaeyoung-Lim/px4-offboard/tree/master
+- https://github.com/PX4/px4_ros_com/tree/main/src/examples/offboard_py
+- https://github.com/Jaeyoung-Lim/px4-offboard/tree/master
